@@ -7,3 +7,4 @@ cli
     console.log("o.m", options.minimize);
   });
 cli.parse();
+export let obj = {};
